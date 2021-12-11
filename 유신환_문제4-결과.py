@@ -1,6 +1,7 @@
 from tkinter import *
 
 window = Tk()
+window.title("2021-2학기 SW프로그래밍입문 메인과제2-4")
 
 Label(window, text="대학명:").grid(row=0)
 Label(window, text="단과대학:").grid(row=1)
